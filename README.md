@@ -1,10 +1,10 @@
-Mario-Style Platformer (C Language)
+#Mario-Style Platformer (C Language)
 
 A classic Mario-inspired 2D platformer game built in C during Grade 11 as a school project.
 This was one of my early deep dives into game logic, graphics handling, and structured programming.
 
 
-About The Game
+##About The Game
 
 This is a simple side-scrolling platformer where:
 The player controls a Mario-style character
@@ -15,7 +15,7 @@ Reach the goal to win
 It focuses on core game development concepts using pure C.
 
 
-What I Learned
+##What I Learned
 
 Game loop logic
 Collision detection
